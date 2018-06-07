@@ -1,2 +1,5 @@
 # vue2-cli-demo
-tencent map,vue2-slot-canlendar
+集成
+tencent map,
+vue2-slot-canlendar,
+v-distpicker
